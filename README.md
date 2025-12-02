@@ -63,7 +63,7 @@ It is a fork of **Metrolist** by and follows the same license as the original pr
 
 You can read the full license here :   
 
-https://github.com/Pushpenderrathore/Metrolist/LICENSE
+https://github.com/Pushpenderrathore/Metrolist/tree/master?tab=License-1-ov-file
 
 ---
 

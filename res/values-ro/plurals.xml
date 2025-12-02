@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">Un minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d de albume</item>
+        <item quantity="one">%d album</item>
+        <item quantity="few">%d albume</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d de artiști</item>
+        <item quantity="one">%d artist</item>
+        <item quantity="few">%d artiști</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d de luni</item>
+        <item quantity="one">%d lună</item>
+        <item quantity="few">%d luni</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d de playlisturi</item>
+        <item quantity="one">%d playlist</item>
+        <item quantity="few">%d playlisturi</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d de melodii</item>
+        <item quantity="one">%d melodie</item>
+        <item quantity="few">%d melodii</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d de ori</item>
+        <item quantity="one">%d dată</item>
+        <item quantity="few">%d ori</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d de săptămâni</item>
+        <item quantity="one">%d săptămână</item>
+        <item quantity="few">%d săptămâni</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d de ani</item>
+        <item quantity="one">%d an</item>
+        <item quantity="few">%d ani</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="one">o secundă</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+</resources>

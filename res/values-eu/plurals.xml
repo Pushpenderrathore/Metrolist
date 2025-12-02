@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_time">
+        <item quantity="other">%d aldi</item>
+        <item quantity="one">Aldi %d</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundu</item>
+        <item quantity="one">Segundu %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d ਐਲਬਮ</item>
+        <item quantity="one">%d ਐਲਬਮ</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d ਕਲਾਕਾਰ</item>
+        <item quantity="one">%d ਕਲਾਕਾਰ</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d ਮਹੀਨੇ</item>
+        <item quantity="one">%d ਮਹੀਨਾ</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d ਪਲੇਲਿਸਟਾਂ</item>
+        <item quantity="one">%d ਪਲੇਲਿਸਟ</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d ਗੀਤ</item>
+        <item quantity="one">%d ਗੀਤ</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d ਹਫ਼ਤੇ</item>
+        <item quantity="one">%d ਹਫ਼ਤਾ</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d ਸਾਲ</item>
+        <item quantity="one">%d ਸਾਲ</item>
+    </plurals>
+</resources>

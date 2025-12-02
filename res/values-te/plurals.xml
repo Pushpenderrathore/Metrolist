@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">ఒక నిమిషం</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d సంకలనాలు</item>
+        <item quantity="one">%d సంకలనం</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d కళాకారులు</item>
+        <item quantity="one">%d కళాకారుడు</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d నెలలు</item>
+        <item quantity="one">%d నెల</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d ప్లేలిస్ట్‌లు</item>
+        <item quantity="one">%d ప్లేలిస్ట్</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%dపాటలు</item>
+        <item quantity="one">%d పాట</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d సార్లు</item>
+        <item quantity="one">%d సారి</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d వారాలు</item>
+        <item quantity="one">%d వారం</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d ఏళ్లు</item>
+        <item quantity="one">%d సంవత్సరం</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_album">
+        <item quantity="other">%d ആൽബങ്ങൾ</item>
+        <item quantity="one">%d ആൽബം</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d ആർട്ടിസ്റ്റുകൾ</item>
+        <item quantity="one">%d ആർട്ടിസ്റ്റ്</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d പ്ലേലിസ്റ്റുകൾ</item>
+        <item quantity="one">%d പ്ലേലിസ്റ്റ്</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d പാട്ടുകൾ</item>
+        <item quantity="one">%d പാട്ട്</item>
+    </plurals>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+        <item quantity="many">%d de minutos</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d álbuns</item>
+        <item quantity="one">%d álbum</item>
+        <item quantity="many">%d de álbuns</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d artistas</item>
+        <item quantity="one">%d artista</item>
+        <item quantity="many">%d de artistas</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d meses</item>
+        <item quantity="one">%d mês</item>
+        <item quantity="many">%d de meses</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d listas</item>
+        <item quantity="one">%d lista</item>
+        <item quantity="many">%d de listas</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+        <item quantity="many">%d de músicas</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d vezes</item>
+        <item quantity="one">%d vez</item>
+        <item quantity="many">%d de vezes</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d semanas</item>
+        <item quantity="one">%d semana</item>
+        <item quantity="many">%d de semanas</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d anos</item>
+        <item quantity="one">%d ano</item>
+        <item quantity="many">%d de anos</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="many">%d de segundos</item>
+    </plurals>
+</resources>

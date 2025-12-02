@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%d minuty</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d alb</item>
+        <item quantity="one">%d album</item>
+        <item quantity="few">%d alba</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d umělců</item>
+        <item quantity="one">%d umělec</item>
+        <item quantity="few">%d umělci</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d měsíců</item>
+        <item quantity="one">%d měsíc</item>
+        <item quantity="few">%d měsíce</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d playlistů</item>
+        <item quantity="one">%d playlist</item>
+        <item quantity="few">%d playlisty</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d skladeb</item>
+        <item quantity="one">%d skladba</item>
+        <item quantity="few">%d skladby</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%dkrát</item>
+        <item quantity="one">%dkrát</item>
+        <item quantity="few">%dkrát</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d týdnů</item>
+        <item quantity="one">%d týden</item>
+        <item quantity="few">%d týdny</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d let</item>
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d roky</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
+    </plurals>
+</resources>

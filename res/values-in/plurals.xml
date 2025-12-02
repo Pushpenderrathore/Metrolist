@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d album</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d artis</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d daftar putar</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d kali</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d minggu</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d tahun</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d detik</item>
+    </plurals>
+</resources>

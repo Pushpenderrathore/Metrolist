@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_time">
+        <item quantity="other">%d gånger</item>
+        <item quantity="one">%d gång</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+</resources>

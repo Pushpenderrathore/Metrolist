@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minút</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d albumov</item>
+        <item quantity="one">%d album</item>
+        <item quantity="few">%d albumy</item>
+        <item quantity="many">%d albumov</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d interpretov</item>
+        <item quantity="one">%d interpret</item>
+        <item quantity="few">%d interpreti</item>
+        <item quantity="many">%d interpretov</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d mesiacov</item>
+        <item quantity="one">%d mesiac</item>
+        <item quantity="few">%d mesiace</item>
+        <item quantity="many">%d mesiacov</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d playlistov</item>
+        <item quantity="one">%d playlist</item>
+        <item quantity="few">%d playlisty</item>
+        <item quantity="many">%d playlistov</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d skladieb</item>
+        <item quantity="one">%d skladba</item>
+        <item quantity="few">%d skladby</item>
+        <item quantity="many">%d skladieb</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d krát</item>
+        <item quantity="one">%d raz</item>
+        <item quantity="few">%d krát</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d týždňov</item>
+        <item quantity="one">%d týždeň</item>
+        <item quantity="few">%d týždne</item>
+        <item quantity="many">%d týždňov</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d rokov</item>
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d roky</item>
+        <item quantity="many">%d rokov</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
+    </plurals>
+</resources>

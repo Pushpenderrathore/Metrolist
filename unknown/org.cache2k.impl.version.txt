@@ -1,0 +1,3 @@
+version=2.6.1.Final
+buildNumber=undefined
+gitSha1=334aced7a6aa6bcbf4060c379050488484bb00fb

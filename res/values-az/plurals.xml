@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_time">
+        <item quantity="other">%d dəfələr</item>
+        <item quantity="one">%d dəfə</item>
+    </plurals>
+</resources>

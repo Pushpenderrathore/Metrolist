@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_time">
+        <item quantity="other">%dkrat</item>
+        <item quantity="one">%dkrat</item>
+        <item quantity="two">%dkrat</item>
+        <item quantity="few">%dkrat</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">%d sekundi</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+</resources>

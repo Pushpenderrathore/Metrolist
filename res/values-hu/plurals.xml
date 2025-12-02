@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d előadó</item>
+        <item quantity="one">%d előadó</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d hónap</item>
+        <item quantity="one">%d hónap</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d lejátszási lista</item>
+        <item quantity="one">%d lejátszási lista</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d alkalmak</item>
+        <item quantity="one">%d alkalom</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d hét</item>
+        <item quantity="one">%d hét</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d év</item>
+        <item quantity="one">%d év</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+</resources>

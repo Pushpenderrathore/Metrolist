@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה 1</item>
+        <item quantity="two">%d דקות</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d אלבומים</item>
+        <item quantity="one">אלבום %d</item>
+        <item quantity="two">%d אלבומים</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d אמנים</item>
+        <item quantity="one">אמן %d</item>
+        <item quantity="two">%d אמנים</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d חודשים</item>
+        <item quantity="one">חודש %d</item>
+        <item quantity="two">%d חודשים</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d פלייליסטים</item>
+        <item quantity="one">פלייליסט %d</item>
+        <item quantity="two">%d פלייליסטים</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר %d</item>
+        <item quantity="two">%d שירים</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d שבועות</item>
+        <item quantity="one">שבוע %d</item>
+        <item quantity="two">%d שבועות</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d שנים</item>
+        <item quantity="one">שנה %d</item>
+        <item quantity="two">%d שנים</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d album</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d nghệ sĩ</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d tháng</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d danh sách phát</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d bài hát</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d lần</item>
+        <item quantity="one">%d lần</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d tuần</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d năm</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">1 giây</item>
+    </plurals>
+</resources>

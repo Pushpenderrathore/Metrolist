@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d albuma</item>
+        <item quantity="one">%d album</item>
+        <item quantity="few">%d albuma</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d umjetnika</item>
+        <item quantity="one">%d umjetnik</item>
+        <item quantity="few">%d umjetnika</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d mjeseci</item>
+        <item quantity="one">%d mjesec</item>
+        <item quantity="few">%d mjeseca</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d spiskih</item>
+        <item quantity="one">%d spisak</item>
+        <item quantity="few">%d spiske</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d pjesama</item>
+        <item quantity="one">%d pjesma</item>
+        <item quantity="few">%d pjesme</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d puta</item>
+        <item quantity="one">%d put</item>
+        <item quantity="few">%d puta</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d sedmica</item>
+        <item quantity="one">%d sedmica</item>
+        <item quantity="few">%d sedmice</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d godina</item>
+        <item quantity="one">%d godina</item>
+        <item quantity="few">%d godine</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%dsekundi</item>
+        <item quantity="one">%dsekund</item>
+        <item quantity="few">%dsekunde</item>
+    </plurals>
+</resources>

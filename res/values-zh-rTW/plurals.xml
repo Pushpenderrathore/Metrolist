@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d 分鐘</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d 張專輯</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d 位藝人</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d 個月</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d 個播放清單</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d 首歌曲</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d 次</item>
+        <item quantity="one">%d 次</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d 週</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d 年</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d 秒</item>
+        <item quantity="one">1 秒</item>
+    </plurals>
+</resources>

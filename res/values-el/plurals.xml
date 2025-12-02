@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d άλμπουμς</item>
+        <item quantity="one">%d άλμπουμ</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d καλλιτέχνες</item>
+        <item quantity="one">%d καλλιτέχνης</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d μήνες</item>
+        <item quantity="one">%d μήνας</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d λίστες</item>
+        <item quantity="one">%d λίστα</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d φορές</item>
+        <item quantity="one">%d φορά</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d εβδομάδες</item>
+        <item quantity="one">%d εβδομάδα</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d χρόνια</item>
+        <item quantity="one">%d έτος</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+    </plurals>
+</resources>

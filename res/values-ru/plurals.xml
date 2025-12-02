@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d альбомов</item>
+        <item quantity="one">%d альбом</item>
+        <item quantity="few">%d альбома</item>
+        <item quantity="many">%d альбомов</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d исполнителей</item>
+        <item quantity="one">%d исполнитель</item>
+        <item quantity="few">%d исполнителя</item>
+        <item quantity="many">%d исполнителей</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d месяцев</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцев</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d плейлистов</item>
+        <item quantity="one">%d плейлист</item>
+        <item quantity="few">%d плейлиста</item>
+        <item quantity="many">%d плейлистов</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d композиций</item>
+        <item quantity="one">%d композиция</item>
+        <item quantity="few">%d композиции</item>
+        <item quantity="many">%d композиций</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d недель</item>
+        <item quantity="one">%d неделя</item>
+        <item quantity="few">%d недели</item>
+        <item quantity="many">%d недель</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d лет</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+</resources>

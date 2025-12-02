@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d 앨범</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d 아티스트</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d개월</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d 재생목록</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d곡</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d주</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d년</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="media3_notification_pause">@drawable/pause</item>
+    <item type="drawable" name="media3_notification_play">@drawable/play</item>
+    <item type="drawable" name="media3_notification_seek_to_next">@drawable/skip_next</item>
+    <item type="drawable" name="media3_notification_seek_to_previous">@drawable/skip_previous</item>
+    <item type="drawable" name="media3_notification_small_icon">@drawable/media3_icon_circular_play</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+</resources>

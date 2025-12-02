@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d minutt</item>
+        <item quantity="one">1 minutt</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d artister</item>
+        <item quantity="one">%d artist</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d måneder</item>
+        <item quantity="one">%d måned</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d spillelister</item>
+        <item quantity="one">%d spilleliste</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d ganger</item>
+        <item quantity="one">%d gang</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d uker</item>
+        <item quantity="one">%d uke</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+    </plurals>
+</resources>

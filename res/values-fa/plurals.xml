@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d مجموعه‌ها</item>
+        <item quantity="one">%d مجموعه</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d هنرمندها</item>
+        <item quantity="one">%d هنرمند</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d ماه‌ها</item>
+        <item quantity="one">%d ماه</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d فهرست‌پخش‌ها</item>
+        <item quantity="one">%d فهرست‌پخش</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d ترانه‌ها</item>
+        <item quantity="one">%d ترانه</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d بار</item>
+        <item quantity="one">%d بار</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d هفته‌ها</item>
+        <item quantity="one">%d هفته</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d سال‌ها</item>
+        <item quantity="one">%d سال</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
+    </plurals>
+</resources>

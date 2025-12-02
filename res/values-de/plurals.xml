@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">1 Minute</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d Alben</item>
+        <item quantity="one">%d Album</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d Künstler</item>
+        <item quantity="one">%d Künstler</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d Monate</item>
+        <item quantity="one">%d Monat</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d Playlists</item>
+        <item quantity="one">%d Playlist</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d Songs</item>
+        <item quantity="one">%d Song</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d Male</item>
+        <item quantity="one">%d Mal</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d Wochen</item>
+        <item quantity="one">%d Woche</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d Jahre</item>
+        <item quantity="one">%d Jahr</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d Sekunden</item>
+        <item quantity="one">1 Sekunde</item>
+    </plurals>
+</resources>

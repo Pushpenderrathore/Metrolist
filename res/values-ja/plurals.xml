@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="minute">
+        <item quantity="other">%d 分</item>
+    </plurals>
+    <plurals name="n_album">
+        <item quantity="other">%d 個のアルバム</item>
+    </plurals>
+    <plurals name="n_artist">
+        <item quantity="other">%d 件のアーティスト</item>
+    </plurals>
+    <plurals name="n_month">
+        <item quantity="other">%d か月</item>
+    </plurals>
+    <plurals name="n_playlist">
+        <item quantity="other">%d 件の再生リスト</item>
+    </plurals>
+    <plurals name="n_song">
+        <item quantity="other">%d 曲</item>
+    </plurals>
+    <plurals name="n_time">
+        <item quantity="other">%d 回</item>
+    </plurals>
+    <plurals name="n_week">
+        <item quantity="other">%d 週間</item>
+    </plurals>
+    <plurals name="n_year">
+        <item quantity="other">%d 年</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+</resources>

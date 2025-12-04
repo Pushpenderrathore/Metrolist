@@ -1,69 +1,83 @@
-# Metrolist (Modified as per Demand)
+# Metrolist (Customized Edition)
 
-This is a modified/forked version of the original **Metrolist** app, adapted to meet specific demands or custom requirements.  
+This repository provides a customized fork of the original **Metrolist** Android app, tailored to accommodate specific requirements and enhancements as requested.
 
-## 🚀 What is Metrolist
+---
 
-Metrolist is an Android music-streaming client that works with YouTube & Spotify Music. It provides a clean interface, offline playback support, playlist syncing, and many enhancements beyond the standard experience.
+## 🚀 Overview
 
-> **Note:** This is a modified version under the name *“Modified as per Demand”*. Changes/customizations have been applied — see the “Changes / Customizations” section below for details.  
+**Metrolist** is a modern Android music streaming client that integrates seamlessly with YouTube and Spotify Music. It offers a user-friendly interface, robust offline playback, playlist synchronization, and feature enhancements that go beyond the standard streaming experience.
 
-## Features
+> **Note:**  
+> This is a modified version, reflecting unique customizations as described below. For comprehensive details on modifications, please review the “Changes & Customizations” section.
 
-- Stream music via YouTube and Spotify Music.  
-- Offline playback (download songs for offline listening).
-- Playlist syncing with YouTube Music (so playlists stay consistent across devices). 
-- Support for lyrics (where available).  
-- Customized UI / behavior as per demand (see next section).  
-- Built using Kotlin / Android.  
+---
 
-## Changes / Customizations in This Fork
+## ✨ Key Features
 
-*⚠️ Adjust this section based on the actual edits you made — below are placeholders for typical customizations*:
+- **Multi-Platform Streaming:** Enjoy music from both YouTube and Spotify Music.
+- **Offline Playback:** Download tracks for uninterrupted listening, even without an internet connection.
+- **Playlist Sync:** Sync playlists with YouTube Music to maintain consistency across devices.
+- **Lyrics Support:** Display song lyrics when available.
+- **Custom UI & Extensions:** User interface and functional behavior adapted per specific requirements.
+- **Built with Modern Android Tech:** Built primarily using Kotlin and Android Studio.
 
-- Modified UI or theme for a different look.  
-- Tweaked playback/download behavior to suit specific needs.  
-- Added / removed resources or assets (see `assets/`, `res/` folders).  
-- Changed configuration (e.g., manifest, permissions, build settings) via `AndroidManifest.xml`.  
-- Bundled `Metrolist.apk` (or custom build) for easier distribution (if permitted).  
+---
 
-*(If you made other changes — e.g. bug fixes, added features, removed unwanted functionality — list them here clearly.)*  
+## 🛠️ Changes & Customizations in This Fork
 
-## How to Use / Install
+> _Please replace these placeholders with the actual customizations relevant to your project._
 
-1. Install the generated APK by clicking on Metrolist.apk on your Android device.  
-2. Grant any required permissions on first launch.  
-3. Log in with your YouTube or Spotify Music account — your playlists and library should sync.  
+- UI and theme adjustments for enhanced user experience.
+- Refined playback and download behavior customized for user needs.
+- Added or removed specific resources and assets (`assets/`, `res/` directories).
+- Updated configuration files, including `AndroidManifest.xml`, permissions, and build settings.
+- Distribution-ready APK provided (`Metrolist.apk`), if applicable.
+- [Other changes: e.g., bug fixes, new features, removal of unwanted features—document here as necessary.]
 
-## For Development on it.
+---
 
-1. Clone or download this repository.  
-2. Build the project using Android Studio (or your preferred Android build setup).  
-3. Use apktool for reverse Engineering.  
+## 📲 Installation & Usage
 
-> ⚠️ Because this is a modified version, be aware that behavior may differ from the official version.  
+1. Download and install the latest `Metrolist.apk` on your Android device.
+2. Upon first launch, grant all necessary permissions as prompted.
+3. Log in using your YouTube or Spotify Music credentials—your playlists and library will sync automatically.
 
-## Disclaimer
+---
 
-- This project is **not affiliated with**, endorsed, funded, or supported by Google, YouTube, Spotify or any of their associated companies.  
-- Use at your own discretion.  
+## 💻 Development Instructions
 
-## Contribution
+1. Clone or download this repository.
+2. Build the project in Android Studio or your preferred Android development environment.
+3. To analyze or reverse engineer the app, apktool can be utilized as necessary.
 
-If you want to improve or adapt this fork further, feel free:  
-- Fork this repo  
-- Make changes / enhancements  
-- Optionally, open a pull request or share your builds (subject to legal / licensing constraints)  
+> ⚠️ _Please note: As this is a customized fork, certain behaviors or features may differ from the official release._
 
-## License
+---
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+## ⚠️ Disclaimer
 
-It is a fork of **Metrolist** by and follows the same license as the original project.
+- This project is **not affiliated with, endorsed, or supported by Google, YouTube, or Spotify**, or their respective parent companies.
+- Use is at your own discretion and risk.
 
-You can read the full license here :   
+---
 
-https://github.com/Pushpenderrathore/Metrolist/tree/master?tab=License-1-ov-file
+## 🤝 Contributions
+
+Contributions and enhancements are welcome! To contribute:
+
+1. Fork this repository.
+2. Implement your changes or improvements.
+3. (Optional) Submit a pull request or share your branch/build (subject to applicable licenses and legal guidelines).
+
+---
+
+## 📄 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**, in accordance with the license used by the original Metrolist project.  
+For the full license text, see:
+
+[LICENSE](https://github.com/Pushpenderrathore/Metrolist/tree/master?tab=License-1-ov-file)
 
 ---
 
